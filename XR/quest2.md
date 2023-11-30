@@ -2,8 +2,6 @@
 title: Quest 2 Quick Start
 ---
 
-[**HOME**](/../../)
-
 # Meta Quest 2 Quick Start Guide
 
 ## Getting a good fit
