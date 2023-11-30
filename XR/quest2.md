@@ -2,7 +2,7 @@
 title: Quest 2 Quick Start
 ---
 
-[**HOME**](../master/README.md)
+[**HOME**](/../../)
 
 # Meta Quest 2 Quick Start Guide
 
