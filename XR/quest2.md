@@ -1,3 +1,9 @@
+---
+title: Quest 2 Quick Start
+---
+
+[**HOME**](/README.md)
+
 # Meta Quest 2 Quick Start Guide
 
 ## Getting a good fit
