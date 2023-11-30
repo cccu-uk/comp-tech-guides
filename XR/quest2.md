@@ -12,11 +12,14 @@ title: Quest 2 Quick Start
 
 ## Controlling the headset
 
-#### Headset diagram  
+#### Headset diagram 
+
 ![Meta quest 2 headset labelled](assets/headset.png)
 
 #### Controller diagram  
-![Meta quest 2 controller labelled](assets/controllers.png)
+
+![Meta quest 2 controller labelled](assets/controllers.png)  
+*Credit:* [*GIENC*](https://learn.gienc.org/course/meta-quest-2-user-guide/meta-quest-2-user-guide)
 
 ## Setting the virtual boundary
 
