@@ -51,5 +51,3 @@ Please inform a technician.
 
 [Computing Technician Email](mailto:computingtech@canterbury.ac.uk)  
 <sub>Please do not contact IT services about these devices.<sub>
-
-test
