@@ -2,7 +2,7 @@
 title: Quest 2 Quick Start
 ---
 
-[**HOME**](/README.md)
+[**HOME**](/)
 
 # Meta Quest 2 Quick Start Guide
 
@@ -15,10 +15,10 @@ title: Quest 2 Quick Start
 ## Controlling the headset
 
 #### Headset diagram  
-![Meta quest 2 headset labelled](XR/assets/headset.png)
+![Meta quest 2 headset labelled](assets/headset.png)
 
 #### Controller diagram  
-![Meta quest 2 controller labelled](XR/assets/controllers.png)
+![Meta quest 2 controller labelled](assets/controllers.png)
 
 ## Setting the virtual boundary
 
@@ -26,7 +26,7 @@ When you first turn on the headset you will be prompted to set a boundary.
 
 If you are not prompted, you can set one manually:
 
-* Press the oculus button ![Quest button](XR/assets/quest-button.png) on the right controller to open the universal menu.
+* Press the oculus button ![Quest button](assets/quest-button.png) on the right controller to open the universal menu.
 * Hover over the clock on the left hand side of the menu and open **Quick settings**
 * Select **Boundary**
 * Follow the onscreen instructions to set the boundary.
