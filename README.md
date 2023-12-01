@@ -1,4 +1,4 @@
-# Index
+# Engineering Technology & Design: Catalogue
 
 * **XR**
   * [Quest 2 quick start guide](XR/quest2.md)
