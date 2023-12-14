@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Quest 2 Quick Start
 ---
 
