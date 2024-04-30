@@ -1,6 +1,6 @@
 # Booking XR equipment
 
-Please make bookings for XR sessions through the [microsoft bookings site](https://outlook.office365.com/owa/calendar/PracticalSessions@cccu.onmicrosoft.com/bookings/).
+Please make bookings for XR sessions through the [microsoft bookings site](https://outlook.office365.com/owa/calendar/XRSessions@cccu.onmicrosoft.com/bookings/).
 
 If you have complex requirements or have any questions prior to making the booking, please contact a technician.
 
