@@ -3,7 +3,7 @@
 ## Quest 2 / Meta
 
 * [First steps for quest](https://www.meta.com/en-gb/experiences/1863547050392688/)
-* [Mission: ISS - International space station experience](https://www.meta.com/en-gb/experiences/2094303753986147/)
+* [Mission: ISS](https://www.meta.com/en-gb/experiences/2094303753986147/)
 * [Virtual speech](https://virtualspeech.com/)
 * [Bodyswaps](https://bodyswaps.co/)
 
