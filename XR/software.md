@@ -1,4 +1,4 @@
-# Available XR software
+# XR software
 
 ## Quest 2 / Meta
 
