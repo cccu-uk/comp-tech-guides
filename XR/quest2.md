@@ -39,9 +39,18 @@ You can also configure a **roomscale** boundary for using the headset while movi
 
 ## FAQ / Common problems
 
+> The controlers are not working
+
+* Try gently double tap the controllers together, this may switch between handsfree and controllers.
+* Try using your hands, wave them in front of you face, you will then see your cartoon hands.
+  * Point your hand at the clock in the Quest bar, then pinch your finger and thumb to open.
+  * Check at the top of screen for the controllers battery status, if they are red please change the battery in the controller.
+
 > I cannot access the content and activities on virtual speech
 
-Virtual speech may be signed out. Contact technicians for instructions on signing back in.
+* Make sure you are connected to "cccu-iot" wifi and not "makerspace"
+    * Click the clock on the quest bar, Select Wifi, Select "cccu-iot" from the list, Click Done.
+* Virtual speech may be signed out. Contact technicians for instructions on signing back in.
 
 > I cannot access the internet
 
