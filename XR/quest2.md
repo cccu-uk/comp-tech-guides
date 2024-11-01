@@ -22,6 +22,16 @@ title: Quest 2 Quick Start
 ![Meta quest 2 controller labelled](assets/controllers.png)  
 *Credit:* [*GIENC*](https://learn.gienc.org/course/meta-quest-2-user-guide/meta-quest-2-user-guide)
 
+## Holding the controllers
+
+Here is an example of how to hold the controllers.   
+* Thumb goes inside the ring to use the thumb stick, and buttons.
+* First finger rests on the trigger button.
+* Second finger rests on the grip button.
+
+![Screenshot quest hold controllers](assets/quest-hold-controllers.jpg)
+
+
 ## Setting the virtual boundary
 
 When you first turn on the headset you will be prompted to set a boundary.
