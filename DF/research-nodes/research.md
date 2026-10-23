@@ -30,7 +30,9 @@
 
 ## Connecting with SSH
 
-Contact technicians for guidance on connecting to the servers.
+Contact technicians to get configured for accessing the servers. Once you are configured, you can access via SSH:
+- Open a terminal on a system with SSH installed.
+-  Use command `ssh cccu-nodeX` where X is 1, 2, or 3.
 
 
 ## Python on the nodes
@@ -100,10 +102,6 @@ Notes:
 - Anything the container writes **outside** a bound or home path is lost when it exits. Always write outputs to your home directory.
 - If packages in `~/.local/lib/python3.*` cause conflicts inside a container, add `--env PYTHONNOUSERSITE=1`, or run with `--no-home` and bind what you need explicitly.
 
-### Links to compatible images
-
-- `<pytorch>.sif`: PyTorch with CUDA 12.x
-- `<colmap>.sif`: COLMAP with GPU support
 
 ### Pulling an image
 
@@ -132,13 +130,6 @@ Rules for container venvs:
 - `--system-site-packages` lets the venv reuse the image's PyTorch and CUDA.
 - A venv is tied to the image that created it. Use a **new venv per image**, and don't switch images under an existing one.
 
-### Check the GPU works
-
-```bash
-apptainer exec --nv pytorch.sif nvidia-smi
-apptainer exec --nv pytorch.sif \
-    python -c "import torch; print(torch.cuda.is_available(), torch.cuda.get_device_name(0))"
-```
 
 ### Clear apptainer cache
 
@@ -160,6 +151,8 @@ tmux new -s myjob      # start a session
 # run your job, then detach with Ctrl-b then d
 tmux attach -t myjob   # come back later
 ```
+
+[**Tmux cheat sheet**](https://tmuxcheatsheet.com/)
 
 - When a job finishes, release the GPU. Don't leave processes holding it.
 
